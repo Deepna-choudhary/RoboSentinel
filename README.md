@@ -82,6 +82,12 @@ RoboSentinel is a full-stack robot monitoring and management system designed to 
 
 
 
+\## Dashboard Preview
+
+
+
+!\[RoboSentinel Dashboard](screenshots/dashboard-full.png)
+
 \## System Architecture
 
 
